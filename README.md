@@ -21,9 +21,10 @@ react-native applicaion demo with redux
 ## Installation
 
 ```bash
-   git clone https://github.com/bsw-mobile-react-navtive.git
-   cd yourproject
-   npm install 
+   git clone https://github.com/bsw.git
+   cd bsw
+   npm run ios // for ios
+   npm run android // for android  
 ```
 
 ## Folder structure
